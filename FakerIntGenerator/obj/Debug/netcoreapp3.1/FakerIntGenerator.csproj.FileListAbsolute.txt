@@ -1,0 +1,12 @@
+C:\Users\German\source\repos\FakerIntGenerator\bin\Debug\netcoreapp3.1\FakerIntGenerator.deps.json
+C:\Users\German\source\repos\FakerIntGenerator\bin\Debug\netcoreapp3.1\FakerIntGenerator.dll
+C:\Users\German\source\repos\FakerIntGenerator\bin\Debug\netcoreapp3.1\FakerIntGenerator.pdb
+C:\Users\German\source\repos\FakerIntGenerator\bin\Debug\netcoreapp3.1\TracerPluginInterface.dll
+C:\Users\German\source\repos\FakerIntGenerator\bin\Debug\netcoreapp3.1\TracerPluginInterface.pdb
+C:\Users\German\source\repos\FakerIntGenerator\obj\Debug\netcoreapp3.1\FakerIntGenerator.csprojAssemblyReference.cache
+C:\Users\German\source\repos\FakerIntGenerator\obj\Debug\netcoreapp3.1\FakerIntGenerator.AssemblyInfoInputs.cache
+C:\Users\German\source\repos\FakerIntGenerator\obj\Debug\netcoreapp3.1\FakerIntGenerator.AssemblyInfo.cs
+C:\Users\German\source\repos\FakerIntGenerator\obj\Debug\netcoreapp3.1\FakerIntGenerator.csproj.CoreCompileInputs.cache
+C:\Users\German\source\repos\FakerIntGenerator\obj\Debug\netcoreapp3.1\FakerIntGenerator.csproj.CopyComplete
+C:\Users\German\source\repos\FakerIntGenerator\obj\Debug\netcoreapp3.1\FakerIntGenerator.dll
+C:\Users\German\source\repos\FakerIntGenerator\obj\Debug\netcoreapp3.1\FakerIntGenerator.pdb

@@ -1,0 +1,12 @@
+C:\Users\German\source\repos\FakerLibrary\bin\Debug\netcoreapp3.1\FakerLibrary.deps.json
+C:\Users\German\source\repos\FakerLibrary\bin\Debug\netcoreapp3.1\FakerLibrary.dll
+C:\Users\German\source\repos\FakerLibrary\bin\Debug\netcoreapp3.1\FakerLibrary.pdb
+C:\Users\German\source\repos\FakerLibrary\obj\Debug\netcoreapp3.1\FakerLibrary.AssemblyInfoInputs.cache
+C:\Users\German\source\repos\FakerLibrary\obj\Debug\netcoreapp3.1\FakerLibrary.AssemblyInfo.cs
+C:\Users\German\source\repos\FakerLibrary\obj\Debug\netcoreapp3.1\FakerLibrary.csproj.CoreCompileInputs.cache
+C:\Users\German\source\repos\FakerLibrary\obj\Debug\netcoreapp3.1\FakerLibrary.dll
+C:\Users\German\source\repos\FakerLibrary\obj\Debug\netcoreapp3.1\FakerLibrary.pdb
+C:\Users\German\source\repos\FakerLibrary\obj\Debug\netcoreapp3.1\FakerLibrary.csprojAssemblyReference.cache
+C:\Users\German\source\repos\FakerLibrary\bin\Debug\netcoreapp3.1\TracerPluginInterface.dll
+C:\Users\German\source\repos\FakerLibrary\bin\Debug\netcoreapp3.1\TracerPluginInterface.pdb
+C:\Users\German\source\repos\FakerLibrary\obj\Debug\netcoreapp3.1\FakerLibrary.csproj.CopyComplete

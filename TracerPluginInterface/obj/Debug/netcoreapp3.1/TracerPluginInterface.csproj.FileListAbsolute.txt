@@ -1,0 +1,9 @@
+C:\Users\German\source\repos\TracerPluginInterface\bin\Debug\netcoreapp3.1\TracerPluginInterface.deps.json
+C:\Users\German\source\repos\TracerPluginInterface\bin\Debug\netcoreapp3.1\TracerPluginInterface.dll
+C:\Users\German\source\repos\TracerPluginInterface\bin\Debug\netcoreapp3.1\TracerPluginInterface.pdb
+C:\Users\German\source\repos\TracerPluginInterface\obj\Debug\netcoreapp3.1\TracerPluginInterface.AssemblyInfoInputs.cache
+C:\Users\German\source\repos\TracerPluginInterface\obj\Debug\netcoreapp3.1\TracerPluginInterface.AssemblyInfo.cs
+C:\Users\German\source\repos\TracerPluginInterface\obj\Debug\netcoreapp3.1\TracerPluginInterface.csproj.CoreCompileInputs.cache
+C:\Users\German\source\repos\TracerPluginInterface\obj\Debug\netcoreapp3.1\TracerPluginInterface.dll
+C:\Users\German\source\repos\TracerPluginInterface\obj\Debug\netcoreapp3.1\TracerPluginInterface.pdb
+C:\Users\German\source\repos\TracerPluginInterface\obj\Debug\netcoreapp3.1\TracerPluginInterface.csprojAssemblyReference.cache

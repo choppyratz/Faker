@@ -1,0 +1,11 @@
+C:\Users\German\source\repos\FakerStringPlugin\bin\Debug\netcoreapp3.1\FakerStringPlugin.deps.json
+C:\Users\German\source\repos\FakerStringPlugin\bin\Debug\netcoreapp3.1\FakerStringPlugin.dll
+C:\Users\German\source\repos\FakerStringPlugin\bin\Debug\netcoreapp3.1\FakerStringPlugin.pdb
+C:\Users\German\source\repos\FakerStringPlugin\bin\Debug\netcoreapp3.1\TracerPluginInterface.dll
+C:\Users\German\source\repos\FakerStringPlugin\bin\Debug\netcoreapp3.1\TracerPluginInterface.pdb
+C:\Users\German\source\repos\FakerStringPlugin\obj\Debug\netcoreapp3.1\FakerStringPlugin.AssemblyInfoInputs.cache
+C:\Users\German\source\repos\FakerStringPlugin\obj\Debug\netcoreapp3.1\FakerStringPlugin.AssemblyInfo.cs
+C:\Users\German\source\repos\FakerStringPlugin\obj\Debug\netcoreapp3.1\FakerStringPlugin.csproj.CoreCompileInputs.cache
+C:\Users\German\source\repos\FakerStringPlugin\obj\Debug\netcoreapp3.1\FakerStringPlugin.csproj.CopyComplete
+C:\Users\German\source\repos\FakerStringPlugin\obj\Debug\netcoreapp3.1\FakerStringPlugin.dll
+C:\Users\German\source\repos\FakerStringPlugin\obj\Debug\netcoreapp3.1\FakerStringPlugin.pdb
