@@ -5,13 +5,15 @@ namespace FakerLibrary
 {
     class LongGenerator : IGenerator
     {
-        public string typeName { get; } = "Long";
-
-        public object generateValue()
+        public bool CanGenerate(Type type)
         {
-            Random rnd = new Random();
+            return type == typeof(long);
+        }
+
+        public object Generate(GeneratorContext context)
+        {
             byte[] buf = new byte[8];
-            rnd.NextBytes(buf);
+            context.Random.NextBytes(buf);
             long longRand = BitConverter.ToInt64(buf, 0);
             return (object)(Math.Abs(longRand % (100000000000000000 - 100000000000000050)) + 100000000000000000);
         }

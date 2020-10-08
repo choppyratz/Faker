@@ -1072,8 +1072,16 @@
         }
       },
       "FakerLibrary/1.0.0": {
+        "dependencies": {
+          "TracerPluginInterface": "1.0.0"
+        },
         "runtime": {
           "FakerLibrary.dll": {}
+        }
+      },
+      "TracerPluginInterface/1.0.0": {
+        "runtime": {
+          "TracerPluginInterface.dll": {}
         }
       }
     }
@@ -1694,6 +1702,11 @@
       "hashPath": "system.xml.xdocument.4.3.0.nupkg.sha512"
     },
     "FakerLibrary/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "TracerPluginInterface/1.0.0": {
       "type": "project",
       "serviceable": false,
       "sha512": ""

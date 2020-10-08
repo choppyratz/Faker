@@ -94,3 +94,5 @@ C:\Users\German\source\repos\FakerUnitTests\obj\Debug\netcoreapp3.1\FakerUnitTes
 C:\Users\German\source\repos\FakerUnitTests\obj\Debug\netcoreapp3.1\FakerUnitTests.dll
 C:\Users\German\source\repos\FakerUnitTests\obj\Debug\netcoreapp3.1\FakerUnitTests.pdb
 C:\Users\German\source\repos\FakerUnitTests\obj\Debug\netcoreapp3.1\FakerUnitTests.genruntimeconfig.cache
+C:\Users\German\source\repos\FakerUnitTests\bin\Debug\netcoreapp3.1\TracerPluginInterface.dll
+C:\Users\German\source\repos\FakerUnitTests\bin\Debug\netcoreapp3.1\TracerPluginInterface.pdb

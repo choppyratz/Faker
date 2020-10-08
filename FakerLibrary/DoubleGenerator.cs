@@ -5,11 +5,14 @@ namespace FakerLibrary
 {
     public class DoubleGenerator : IGenerator
     {
-        public string typeName { get; } = "Double";
-        public object generateValue()
+        public bool CanGenerate(Type type)
         {
-            Random random = new Random();
-            return (object)random.NextDouble();
+            return type == typeof(double);
+        }
+
+        public object Generate(GeneratorContext context)
+        {
+            return context.Random.NextDouble();
         }
     }
 }

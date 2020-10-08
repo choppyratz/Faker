@@ -9,11 +9,12 @@ namespace Faker
         static void Main(string[] args)
         {
             var faker = new FakerLibrary.Faker();
-            var test5 = faker.Create<Foo2>();
+            var test = faker.Create<string>();
+            var test1 = faker.Create<int>();
+            var test5 = faker.Create<Foo>();
             var test6 = faker.Create<List<int>>();
             var test7 = faker.Create<List<Foo>>();
             var test8 = faker.Create<A>();
-            Console.WriteLine(test5);
             Console.ReadKey();
         }
     }

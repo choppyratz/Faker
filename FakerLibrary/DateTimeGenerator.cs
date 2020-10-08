@@ -6,8 +6,12 @@ namespace FakerLibrary
 {
     class DateTimeGenerator : IGenerator
     {
-        public string typeName { get; } = "DateTime";
-        public object generateValue()
+        public bool CanGenerate(Type type)
+        {
+            return type == typeof(DateTime);
+        }
+
+        public object Generate(GeneratorContext context)
         {
             return (object)DateTime.Now;
         }

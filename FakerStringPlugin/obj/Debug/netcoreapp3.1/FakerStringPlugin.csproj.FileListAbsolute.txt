@@ -9,3 +9,4 @@ C:\Users\German\source\repos\FakerStringPlugin\obj\Debug\netcoreapp3.1\FakerStri
 C:\Users\German\source\repos\FakerStringPlugin\obj\Debug\netcoreapp3.1\FakerStringPlugin.csproj.CopyComplete
 C:\Users\German\source\repos\FakerStringPlugin\obj\Debug\netcoreapp3.1\FakerStringPlugin.dll
 C:\Users\German\source\repos\FakerStringPlugin\obj\Debug\netcoreapp3.1\FakerStringPlugin.pdb
+C:\Users\German\source\repos\FakerStringPlugin\obj\Debug\netcoreapp3.1\FakerStringPlugin.csprojAssemblyReference.cache

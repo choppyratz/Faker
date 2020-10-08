@@ -7,21 +7,28 @@ namespace FakerStringPlugin
 {
     class StringGenerator : IGenerator
     {
-        public string typeName { get; } = "String";
-        public object generateValue()
+        public bool CanGenerate(Type type)
+        {
+            return type == typeof(string);
+        }
+
+        public object Generate(GeneratorContext context)
+        {
+            return generateValue(context.Random);
+        }
+        public object generateValue(Random rnd)
         {
             string randomString = "";
-            Random rnd = new Random();
 
             for (int i = 0; i < rnd.Next(100); i++)
             {
-                randomString += GenerateChar();
+                randomString += GenerateChar(rnd);
             }
 
             return (object)randomString;
         }
 
-        private string GenerateChar()
+        private string GenerateChar(Random rnd)
         {
             Random random = new Random();
 

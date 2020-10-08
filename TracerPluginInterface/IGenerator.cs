@@ -6,7 +6,7 @@ namespace TracerPluginInterface
 {
     public interface IGenerator
     {
-        public string typeName { get; }
-        object generateValue();
+        public object Generate(GeneratorContext context);
+        public bool CanGenerate(Type type);
     }
 }
